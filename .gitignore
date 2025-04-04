@@ -1,2 +1,3 @@
 # .gitignore 파일
 secrets.yaml
+.DS_Store
